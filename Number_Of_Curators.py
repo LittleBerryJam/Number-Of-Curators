@@ -1,3 +1,8 @@
+'''
+Made by Littl3Be3rryJam
+My scratch profile: https://scratch.mit.edu/users/Littl3Be3rryJam/
+Do not steal please!
+'''
 import json
 import requests
 
